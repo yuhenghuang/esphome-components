@@ -14,7 +14,6 @@ external_components:
 | Component | Description | Used by |
 |---|---|---|
 | `gdey037z03` | GDEY037Z03 3.7" e-ink display driver | esp32-s3-eink-display |
-| `runtime_image` | Runtime-generated image rendering | esp32-s3-eink-display |
 
 ## Migrating from local custom_components
 
